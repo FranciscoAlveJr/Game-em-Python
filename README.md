@@ -16,7 +16,7 @@
              - Números de 0 à 100;
              - Apenas multiplicação
        
-   '*' Caso outro número seja digitado, além dos quatro, serão números de 0 à 1000 e
+   "*" Caso outro número seja digitado, além dos quatro, serão números de 0 à 1000 e
    operadores de soma, subtração e multiplicação.
    
    Conquistas:
