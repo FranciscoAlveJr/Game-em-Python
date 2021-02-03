@@ -19,7 +19,7 @@
    _*_ Caso outro número seja digitado, além dos quatro, serão números de 0 à 1000 e
    operadores de soma, subtração e multiplicação.
    
-   Conquistas:
+   # Conquistas:
        - BRONZE: de 5 à 14 pontos conquistados.
        - PRATA:  de 15 à 25 pontos conquistados.
        - OURO:   mais de 25 pontos conquistados.
