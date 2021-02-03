@@ -2,7 +2,7 @@
  Game de cálculo matemático simples
  
  Regras:
-     - São 4 dificuldades:\n
+     - São 4 dificuldades:<\b>
          1 - Muito fácil
              - Números de 0 à 10, 
              - Apenas com soma e subtração.
