@@ -6,13 +6,13 @@
  1. Muito fácil
  - Números de 0 à 10, 
  - Apenas com soma e subtração.<br>
- ##### 2 - Fácil
+ 2. Fácil
  - Números de 0 à 10;
  - Apenas multiplicação.
- ##### 3 - Médio
+ 3. Médio
  - Números de 0 à 100;
  - Apenas soma e subtração
- ##### 4 - Difícil
+ 4. Difícil
  - Números de 0 à 100;
  - Apenas multiplicação
        
