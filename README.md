@@ -5,7 +5,7 @@
  #### São 4 dificuldades:
  1 - Muito fácil
    - Números de 0 à 10, 
-   - Apenas com soma e subtração.
+   - Apenas com soma e subtração.<br>
  2 - Fácil
    - Números de 0 à 10;
    - Apenas multiplicação.
